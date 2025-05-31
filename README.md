@@ -10,8 +10,10 @@ This is a simple Pacman clone game built using **Pygame**. The game consists of 
 The gameplay is straightforward and engaging, making it a fun challenge to complete the level without getting caught by monsters.
 
 ![Start Screen](screenshots/start.png)
-![Start Screen](screenshots/lose.png)
-![Start Screen](screenshots/win.png)
+
+| Lose | Win |
+|----------------|----------------|
+| ![Lose](screenshots/lose.png) | ![Win](screenshots/win.png) |
 
 ---
 
